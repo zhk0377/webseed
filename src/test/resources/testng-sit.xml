@@ -2,7 +2,7 @@
 <suite name="Suite1" junit="false" verbose="3" skipfailedinvocationcounts="true">
 	<test name="Moudle1">
 		<packages>
-			<package name="com.iteasy.util"></package>
+			<package name="com.iteasy.jedis"></package>
 		</packages>
 	</test>
 </suite>
